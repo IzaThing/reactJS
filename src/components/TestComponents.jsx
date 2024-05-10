@@ -21,8 +21,8 @@ function TestComponents() {
             </tr>
             <tr>
               <td className="px-6 py-4 border-r border-l border-gray-300 whitespace-nowrap">2</td>
-              <td className="px-6 py-4 border-r border-l border-gray-300 whitespace-nowrap">Annriza Lam</td>
-              <td className="px-6 py-4 border-r border-l border-gray-300 whitespace-nowrap">annriza30lam@gmail.com</td>
+              <td className="px-6 py-4 border-r border-l border-gray-300 whitespace-nowrap">Jane Smith</td>
+              <td className="px-6 py-4 border-r border-l border-gray-300 whitespace-nowrap">jane.smith@example.com</td>
             </tr>
             {/* Add more rows as needed */}
           </tbody>

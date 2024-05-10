@@ -5,7 +5,7 @@ import { FaUserCog, FaChartBar, FaUserGraduate } from 'react-icons/fa';
 
 function Sidebar() {
   const location = useLocation();
-  const activeClass = 'rounded-md bg-gray-600 text-white p-2';
+  const activeClass = 'rounded-md bg-gray-900 text-white p-2';
 
   const NavLinkFunction = () => {
     const sideBarArray = new Map([

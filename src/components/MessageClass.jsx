@@ -8,4 +8,4 @@ class MessageClass extends Component {
   }
 }
 
-export default MessageClass;s
+export default MessageClass;

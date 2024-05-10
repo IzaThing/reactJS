@@ -5,7 +5,7 @@ export class Footer extends Component {
     return (
         <footer className="bg-gray-800 text-white py-2" style={{ background: '#212C58' }}>
             <div className="container mx-auto px-4  text-center">
-            <p>&copy; 2024 web systems technology</p>
+            <p>&copy; 2024 Web Systems Technology</p>
             </div>
         </footer>
     );
